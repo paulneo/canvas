@@ -16,6 +16,7 @@ for (var l = 0;l<lineas ; l++) {
     dibujarlineas("green",300,xy,xf,300);
     x=x-10
 }
+//cuadrado
 dibujarlineas("green",1,1,1,299);
 dibujarlineas("green",1,299,299,299);
 dibujarlineas("green",1,1,299,1);
